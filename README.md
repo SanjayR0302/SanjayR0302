@@ -1,16 +1,17 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanjay+👋;Full+Stack+Developer+%7C+Flutter+%26+Web+Enthusiast;Java+%7C+Python+%7C+MERN+Stack;LeetCode+Grinder+%7C+Problem+Solver+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjay+👋;Full+Stack+Developer+%7C+Flutter+%26+Web+Enthusiast;Java+%7C+Python+%7C+MERN+Stack;Video+Editor+%7C+Canva+Designer+🎬">
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
-💡 Passionate about **coding, creating, and solving problems** through technology.  
-🚀 Founder of **Buildify Agency** – we create modern web & mobile solutions for clients.  
-🧩 Skilled in **Java**, **Python**, **Flutter**, and **MERN Stack**.  
-🌱 Currently learning **AI integrations**, **Cloud deployment**, and **DSA** through LeetCode.  
-🎯 My goal is to become a **Software Engineer who builds meaningful products**.
+💡 I’m a **Full Stack Developer** and **UI/UX Designer** who loves building modern digital experiences.  
+🚀 Founder of **Buildify Agency**, where I create impactful **mobile and web applications** for clients.  
+🎯 Passionate about **designing, coding, and storytelling** through visuals.  
+🧩 Skilled in **Java**, **Python**, **Flutter**, **MERN Stack**, and **Creative Editing**.  
+🌱 Currently exploring **AI + App Integration** and **Cloud Technologies**.  
+💭 *"Turning ideas into digital reality with creativity + code!"*
 
 ---
 
@@ -31,16 +32,25 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🧰 Tools
+#### 🧰 Tools & Creative Suite
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
+### 🎬 Creative Skills
+🎥 **Video Editing:** YouTube edits, cinematic reels, promo videos, motion transitions  
+🎨 **Designing:** Thumbnails, social media posts, app UI/UX with Canva & Figma  
+📸 **Storytelling through visuals** — I believe great design tells great stories.  
+
+---
+
 ### 🧩 LeetCode & Problem Solving
-🏆 Sharpening my **DSA** and logic daily on **LeetCode**.  
+🏆 Practicing **DSA** daily to strengthen problem-solving and logic.  
 👉 [**LeetCode Profile →**](https://leetcode.com/your-leetcode-username)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?ext=heatmap&theme=dark)
@@ -51,10 +61,11 @@
 
 | 💡 Project | 📝 Description | 🔗 Link |
 |-------------|----------------|---------|
-| **Buildify Portfolio** | Modern portfolio site for Buildify Agency | [🔗 View](https://github.com/SanjayR0302/buildify-portfolio) |
-| **Flutter Chat App** | Real-time chat app using Firebase & Flutter | [🔗 View](https://github.com/SanjayR0302/flutter-chat-app) |
-| **MERN E-Commerce** | Shopping platform built with MERN stack | [🔗 View](https://github.com/SanjayR0302/mern-ecommerce) |
-| **Python Task Automator** | Automates system tasks using Python scripts | [🔗 View](https://github.com/SanjayR0302/python-automation) |
+| **Buildify Portfolio** | Agency site showcasing projects & clients | [🔗 View](https://github.com/SanjayR0302/buildify-portfolio) |
+| **Flutter Chat App** | Real-time chat app using Firebase | [🔗 View](https://github.com/SanjayR0302/flutter-chat-app) |
+| **MERN E-Commerce** | Full-featured e-commerce platform | [🔗 View](https://github.com/SanjayR0302/mern-ecommerce) |
+| **Python Task Automator** | Automates PC tasks using Python scripts | [🔗 View](https://github.com/SanjayR0302/python-automation) |
+| **Canva Design Pack** | Creative design templates & thumbnails | [🔗 View](https://github.com/SanjayR0302/design-pack) |
 
 ---
 
@@ -70,9 +81,8 @@
 
 ---
 
-### 🏆 GitHub Achievements & Activity
+### 🏆 Achievements & Activity
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SanjayR0302&theme=tokyonight&margin-w=10&no-frame=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjayR0302&theme=react-dark&hide_border=true&area=true)
 
 ---
@@ -88,4 +98,4 @@
 
 ---
 
-⭐️ *“Code. Create. Inspire.”*  
+⭐️ *“Code it like logic, design it like art.”*  
