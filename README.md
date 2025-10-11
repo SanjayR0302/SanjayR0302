@@ -50,12 +50,12 @@ I explore and use AI tools to boost creativity and productivity across different
 - ☁️ **Cloud & Automation** – Exploring cloud computing and AI-powered automation workflows  
 
 ---
-
 ### 🧩 DSA & Problem Solving
 Practicing **Data Structures & Algorithms** in Java & Python daily.  
-👉 [LeetCode Profile](https://leetcode.com/your-leetcode-username)  
+👉 [LeetCode Profile](https://leetcode.com/SanjayR0302)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?ext=heatmap&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SanjayR0302?ext=heatmap&theme=dark)
+
 
 ---
 
