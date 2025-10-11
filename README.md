@@ -1,23 +1,25 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjay+👋;Developer+%7C+Designer+%7C+Video+Editor;Java+%7C+Python+%7C+Flutter;LeetCode+Grinder+%7C+Learning+Everyday">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sanjay+👋;Developer+%7C+Designer+%7C+Video+Editor;Java+%7C+Python+%7C+Flutter+%7C+C%2B%2B;Web+%7C+Android+Developer+%7C+AI+Explorer">
 </h1>
 
 <p align="center">
-  💻 Developer | 🎨 Designer | 🎬 Video Editor
+  💻 Developer | 🎨 Designer | ☁️ Cloud Enthusiast | 🤖 AI Explorer
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-Hi! I'm **Sanjay**, a student who enjoys learning **Java, Python, and Flutter**.  
-I build small projects, design visuals, and edit videos to bring ideas to life.  
+Hi! I'm **Sanjay**, a passionate **developer, designer, and tech learner**.  
+I love to build, design, and create — from **apps** to **websites** to **creative edits**.  
 
 Currently:
-- 🚀 Practicing **LeetCode** daily  
-- 🌱 Learning **Flutter app development** and backend basics  
-- 🎨 Designing UI and creative content using **Canva**  
-- 🎬 Editing videos and short reels  
+- 🚀 Practicing **DSA in Java & Python**
+- 🌱 Learning **Flutter** and **Android Development**
+- 💻 Building **Web Projects** using HTML, CSS & JavaScript
+- ☁️ Exploring **Cloud Computing & AI-based automation**
+- 🎨 Designing creative visuals using **Canva**
+- 🎬 Editing videos and reels with professional tools  
 
 ---
 
@@ -25,7 +27,10 @@ Currently:
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🛠 Tools & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -37,15 +42,17 @@ Currently:
 
 ---
 
-### 🎬 Creative Skills
-- Video Editing: YouTube edits, reels, motion graphics  
-- Designing: Thumbnails, posters, UI layouts with Canva & Figma  
-- Combining creativity with coding to make projects more engaging  
+### 🧠 AI Tools & Automation
+I explore and use AI tools to boost creativity and productivity across different fields.  
+- 🎬 **AI Video Tools** – Auto-captioning, voice-overs, and smart reel editing  
+- 🎨 **AI Design Tools** – Creating thumbnails, posters, and mockups using AI platforms like Midjourney & Canva Magic Studio  
+- 💻 **Coding Assistance** – Using AI tools like ChatGPT, GitHub Copilot, and Replit AI for faster development  
+- ☁️ **Cloud & Automation** – Exploring cloud computing and AI-powered automation workflows  
 
 ---
 
-### 🧩 LeetCode & Problem Solving
-Practicing **Data Structures & Algorithms** daily.  
+### 🧩 DSA & Problem Solving
+Practicing **Data Structures & Algorithms** in Java & Python daily.  
 👉 [LeetCode Profile](https://leetcode.com/your-leetcode-username)  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?ext=heatmap&theme=dark)
@@ -57,6 +64,7 @@ Practicing **Data Structures & Algorithms** daily.
 |---------|-------------|------|
 | Flutter Chat App | Real-time chat app using Firebase | [View](https://github.com/SanjayR0302/flutter-chat-app) |
 | Python Task Automator | Automates simple PC tasks | [View](https://github.com/SanjayR0302/python-task-manager) |
+| Web Portfolio | Personal portfolio website using HTML, CSS, JS | [View](https://github.com/SanjayR0302/web-portfolio) |
 | Canva Design Pack | Design templates & thumbnails | [View](https://github.com/SanjayR0302/design-portfolio) |
 
 ---
