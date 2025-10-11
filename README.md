@@ -52,9 +52,10 @@ I explore and use AI tools to boost creativity and productivity across different
 ---
 ### 🧩 DSA & Problem Solving
 Practicing **Data Structures & Algorithms** in Java & Python daily.  
-👉 [LeetCode Profile](https://leetcode.com/SanjayR0302)  
+👉 [LeetCode Profile](https://leetcode.com/u/Sanjayraman/)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SanjayR0302?ext=heatmap&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjayraman?ext=heatmap&theme=dark)
+
 
 
 ---
@@ -80,18 +81,16 @@ Practicing **Data Structures & Algorithms** in Java & Python daily.
 
 ---
 
-### 🏆 Achievements & Activity
-![Trophies](https://github-profile-trophy.vercel.app/?username=SanjayR0302&theme=tokyonight&margin-w=10&no-frame=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjayR0302&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sanjay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanjayraman063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sanjayraman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SanjayR0302"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 
 ---
 
