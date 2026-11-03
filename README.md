@@ -1,48 +1,42 @@
- <div align="center">
+ <!-- ═══════════════ PROFILE HERO ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:090B20,45:352078,100:00C6FF&text=SANJAY%20R&fontSize=75&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20FULL%20STACK&descSize=17&descAlignY=60&descColor=BAE8FF"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;AI+%26+Full+Stack+Developer;Flutter+%7C+React+%7C+Python;Turning+Ideas+Into+Digital+Experiences" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10172A,45:164E63,100:06B6D4&text=SANJAY%20R&fontSize=78&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20FULL%20STACK&descSize=17&descAlignY=60&descColor=BAF3FF"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;AI-Powered+Digital+Experiences;Full+Stack+%7C+Flutter+%7C+AI;Turning+Ideas+Into+Reality"/>
 
 <br/>
 
-<a href="https://github.com/SanjayR0302">
-<img src="https://img.shields.io/badge/GitHub-Follow-171A35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sanjayraman">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-087EA4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Sanjayraman063@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SanjayR0302&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS"/>
+<a href="https://linkedin.com/in/sanjayraman"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0E7490?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Sanjayraman063@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SanjayR0302"><img src="https://img.shields.io/badge/GITHUB-Follow-172033?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-<h2 align="center">✦ 01 / ABOUT ME</h2>
+<!-- ═══════════════ INTRODUCTION ═══════════════ -->
+
+## `01` — About Me
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-### Hey, I'm Sanjay R 👋
+# Hello, I'm Sanjay 👋
 
 **Software Developer | AI & Full Stack Development**
 
 I build AI-powered web and mobile applications, multilingual LLM chatbots with RAG-based retrieval, and full-stack platforms.
 
-I work across Python, JavaScript, TypeScript and Dart, integrating AI models, REST APIs and databases to create useful digital experiences.
+I enjoy transforming ideas into practical digital products by combining software engineering, AI integrations and user-focused development.
 
 - 🤖 AI-powered application development
 - 💻 Full-stack web development
-- 📱 Flutter mobile application development
+- 📱 Flutter mobile applications
 - 🔗 REST APIs and WebSockets
-- 🧪 Application testing and debugging
+- 🧪 Testing and debugging
 - 🎬 Technical content creation
 
 </td>
@@ -52,7 +46,9 @@ I work across Python, JavaScript, TypeScript and Dart, integrating AI models, RE
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech_IT-8.4_CGPA-6D5DFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-0891B2?style=for-the-badge"/>
+
+<sub>B.Tech Information Technology</sub>
 
 </td>
 </tr>
@@ -60,123 +56,108 @@ I work across Python, JavaScript, TypeScript and Dart, integrating AI models, RE
 
 ---
 
-<h2 align="center">✦ 02 / TECH STACK</h2>
+<!-- ═══════════════ TECHNOLOGIES ═══════════════ -->
+
+## `02` — Technology Stack
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+**PROGRAMMING LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&theme=dark"/>
 
-### FRONTEND & MOBILE
+<br/><br/>
+
+**FRONTEND & MOBILE**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=dark"/>
 
-### BACKEND & DATABASE
+<br/><br/>
+
+**BACKEND & DATABASE**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sqlite&theme=dark"/>
 
-### AI & MACHINE LEARNING
+<br/><br/>
+
+**AI & MACHINE LEARNING**
 
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6D5DFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### TESTING & TOOLS
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+**TESTING & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=playwright,git,github,postman,androidstudio&theme=dark"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 </div>
 
 ---
 
-<h2 align="center">✦ 03 / FEATURED PROJECTS</h2>
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## `03` — Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_01-AI_APPLICATION-0891B2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/01-GENERATIVE_AI-6D5DFB?style=for-the-badge"/>
+### Rhino Industries — AI Chatbot
 
-### RHINO INDUSTRIES — AI CHATBOT
+Multilingual conversational commerce and unified CRM solution.
 
-</div>
-
-Multilingual conversational commerce chatbot with unified CRM capabilities.
-
-**Features**
-- English, Tamil and Tanglish support.
-- RAG-based product retrieval.
+**Key Features**
+- English, Tamil and Tanglish chatbot.
+- RAG-based product information retrieval.
 - Gemini Live Voice Mode.
 - Product catalog and smart search.
 - CRM and admin dashboard.
 
-**Technologies**
+**Tech Stack**
 
 React 18 · TypeScript · Tailwind CSS · Node.js · Express.js · Gemini · OpenAI · RAG · WebSockets
 
-<div align="center">
-
-<a href="https://rhino-industries-chatbot.onrender.com/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+<a href="https://rhino-industries-chatbot.onrender.com/"><img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_02-WEB_PLATFORM-F97316?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/02-WEB_PLATFORM-00A6C8?style=for-the-badge"/>
-
-### RHINO LISTING
-
-</div>
+### Rhino Listing
 
 Business directory platform for discovering businesses and viewing detailed business profiles.
 
-**Features**
-- Business discovery and profiles.
+**Key Features**
+- Business discovery.
+- Detailed business profiles.
 - User authentication.
 - OTP-based password recovery.
 - Admin listing management.
 - Business approval and rejection controls.
 
-<div align="center">
-
-<a href="https://www.rhinolisting.com/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-00A6C8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+<a href="https://www.rhinolisting.com/"><img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-F97316?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-<div align="center">
+<img src="https://img.shields.io/badge/PROJECT_03-MOBILE_APPLICATION-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/03-MOBILE_APPLICATION-7C3AED?style=for-the-badge"/>
+### E-Commerce Mobile Application
 
-### E-COMMERCE MOBILE APPLICATION
+Flutter-based shopping application featuring authentication, product catalog, shopping cart and Firebase integration.
 
-</div>
-
-Flutter-based e-commerce application with user authentication, product catalog, shopping cart and Firebase integration.
-
-**Technologies:** Flutter · Dart · Firebase Authentication · REST APIs · Provider
+**Tech Stack:** Flutter · Dart · Firebase Authentication · REST APIs · Provider
 
 </td>
 </tr>
@@ -184,13 +165,15 @@ Flutter-based e-commerce application with user authentication, product catalog, 
 
 ---
 
-<h2 align="center">✦ 04 / PROFESSIONAL EXPERIENCE</h2>
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+
+## `04` — Professional Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### RHINO GROUP
+### Rhino Group
 
 **Web Developer · 3 Months**
 
@@ -202,7 +185,7 @@ Flutter-based e-commerce application with user authentication, product catalog, 
 </td>
 <td width="50%" valign="top">
 
-### NITHRA PRIVATE LIMITED
+### Nithra Private Limited
 
 **App Development · 1 Month**
 
@@ -217,46 +200,36 @@ Flutter-based e-commerce application with user authentication, product catalog, 
 
 ---
 
-<h2 align="center">✦ 05 / GITHUB ANALYTICS</h2>
+<!-- ═══════════════ EDUCATION ═══════════════ -->
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayR0302&show_icons=true&hide_border=true&bg_color=0D1024&title_color=9D8CFF&icon_color=00C6FF&text_color=E2E8F0&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR0302&layout=compact&hide_border=true&bg_color=0D1024&title_color=9D8CFF&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=SanjayR0302&hide_border=true&background=0D1024&ring=9D8CFF&fire=00C6FF&currStreakLabel=9D8CFF&sideLabels=E2E8F0&dates=94A3B8"/>
-
-</div>
-
----
-
-<h2 align="center">✦ 06 / EDUCATION & ACHIEVEMENTS</h2>
+## `05` — Education & Achievements
 
 <div align="center">
 
 | Qualification | Institution | Result |
 |:---|:---|:---|
-| B.Tech Information Technology | Mahendra Engineering College | CGPA 8.4/10 |
-| Higher Secondary Education | Senguthar Matric Higher Secondary School | 73% |
+| B.Tech Information Technology | Mahendra Engineering College | **8.4 / 10** |
+| Higher Secondary Education | Senguthar Matric Higher Secondary School | **73%** |
 
-**Certification:** Python — 6-Month Intensive Program
+<br/>
 
-**Achievement:** Participated in Zoho CliqTrix 2025 Product Development Contest.
+<img src="https://img.shields.io/badge/CERTIFICATION-Python_6_Month_Intensive_Program-0891B2?style=for-the-badge"/>
 
-**Languages:** English · Tamil · Hindi
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ACHIEVEMENT-Zoho_CliqTrix_2025_Participant-F97316?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2 align="center">✦ 07 / BEYOND DEVELOPMENT</h2>
+<!-- ═══════════════ CONTENT CREATION ═══════════════ -->
+
+## `06` — SanjaySpeaks
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SANJAYSPEAKS-TECH_INFLUENCER-6D5DFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SANJAYSPEAKS-TECH_INFLUENCER-0891B2?style=for-the-badge"/>
 
 ### Programming Educator
 
@@ -266,24 +239,38 @@ Creating educational content on programming, AI tools and emerging technologies 
 
 ---
 
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+## `07` — GitHub Activity
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:090B20,50:352078,100:00C6FF&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=25&fontColor=FFFFFF&fontAlignY=65"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayR0302&show_icons=true&hide_border=true&bg_color=10172A&title_color=22D3EE&icon_color=F97316&text_color=E2E8F0&rank_icon=github"/>
 
-<a href="mailto:Sanjayraman063@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sanjayraman">
-<img src="https://img.shields.io/badge/LINKEDIN-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/SanjayR0302">
-<img src="https://img.shields.io/badge/GITHUB-171A35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR0302&layout=compact&hide_border=true&bg_color=10172A&title_color=22D3EE&text_color=E2E8F0"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SanjayR0302&hide_border=true&background=10172A&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:10172A,50:164E63,100:06B6D4&text=BUILD%20SOMETHING%20EXTRAORDINARY&fontSize=25&fontColor=FFFFFF&fontAlignY=65"/>
+
+<a href="mailto:Sanjayraman063@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sanjayraman"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SanjayR0302"><img src="https://img.shields.io/badge/GITHUB-Follow-172033?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
 **CODE · CREATE · INNOVATE**
 
-<sub>Designed & developed by Sanjay R</sub>
+<sub>Designed by Sanjay R | Software Developer</sub>
 
 </div>
