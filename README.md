@@ -1,172 +1,321 @@
-# Hey, I'm Sanjay R 👋
+<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8B1E3F&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+Full+Stack+Development;Building+AI-Powered+Applications;Flutter+%26+Web+Developer;SanjaySpeaks+%7C+Tech+Content+Creator" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:4B1028,50:8B1E3F,100:C05A76&text=SANJAY%20R&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=F5DDE5&strokeWidth=1" />
 
-**Software Developer | AI & Full Stack Development**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C05A76&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+Full+Stack+Development;Building+Intelligent+Digital+Experiences;Flutter+%7C+React+%7C+Python+%7C+AI" />
+
+<br/>
+
+<a href="https://github.com/SanjayR0302">
+<img src="https://img.shields.io/badge/GitHub-SanjayR0302-8B1E3F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sanjayraman">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Sanjayraman063@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SanjayR0302&label=PROFILE+VIEWS&color=8B1E3F&style=flat-square" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
-I'm **Sanjay R**, a Software Developer who builds AI-powered web and mobile applications, from multilingual LLM chatbots with RAG-based retrieval to full-stack platforms and Flutter applications.
-
-- 🚀 Developing AI-powered web and mobile applications.
-- 🤖 Working with Google Gemini and OpenAI models.
-- 💻 Building applications using React, Node.js and Flutter.
-- 🔗 Integrating REST APIs, WebSockets and databases.
-- 🧪 Testing and debugging applications using Playwright.
-- 🎬 Creating programming and technology content through **SanjaySpeaks**.
-
----
-
-## ⚙️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-8B1E3F?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-8B1E3F?style=for-the-badge)
-![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI & Machine Learning
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B1E3F?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Databases
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Realtime_Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB_Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Testing & Tools
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 01. Rhino Industries – AI Chatbot
-
-**Technologies:** React 18, TypeScript, Tailwind CSS, Node.js, Express.js, Google Gemini 2.5 Flash, OpenAI GPT-4o-mini, RAG, WebSockets.
-
-- Developed a multilingual AI chatbot supporting English, Tamil and Tanglish.
-- Implemented RAG-based product information retrieval, product catalog and smart search.
-- Integrated Gemini Live Voice Mode and e-commerce features.
-- Delivered a unified CRM and admin dashboard.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-8B1E3F?style=for-the-badge)](https://rhino-industries-chatbot.onrender.com/)
-
-### 02. Rhino Listing – Business Directory Platform
-
-- Developed a platform for discovering businesses and viewing detailed business profiles.
-- Implemented user authentication and OTP-based password recovery.
-- Built an admin dashboard with business approval, rejection and deletion controls.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-8B1E3F?style=for-the-badge)](https://www.rhinolisting.com/)
-
-### 03. E-Commerce Mobile Application
-
-**Technologies:** Flutter, Dart, Firebase Authentication, REST APIs, Provider.
-
-- Developed a Flutter e-commerce application with authentication, product catalog and shopping cart features.
-- Integrated Firebase and REST APIs for product data and session management.
-- Implemented Provider state management.
-
----
-
-## 💼 Professional Experience
-
-### Rhino Group — Web Developer
-**Duration: 3 Months**
-
-- Developed and integrated an AI chatbot for customer interactions.
-- Built responsive web interfaces and integrated APIs with backend services.
-- Tested and debugged chatbot features to improve reliability and user experience.
-
-### Nithra Private Limited — App Development
-**Duration: 1 Month**
-
-- Developed Flutter application features and integrated REST APIs.
-- Identified and fixed bugs to improve application stability.
-
----
-
-## 🎬 Technical Content Creator
-
-### SanjaySpeaks — Tech Influencer | Programming Educator
-
-- Create educational content on programming, AI tools and emerging technology.
-- Demonstrate practical projects.
-- Explain programming concepts and technology trends in accessible language.
-
----
-
-## 🎓 Education
-
-**Mahendra Engineering College**
-
-Bachelor of Technology — Information Technology  
-2023 – Present  
-CGPA: 8.4 / 10
-
-**Senguthar Matric Higher Secondary School**
-
-Higher Secondary Education  
-2022 – 2023  
-Percentage: 73%
-
----
-
-## 🏆 Certifications & Achievements
-
-- Python — 6-Month Intensive Program.
-- Participated in Zoho CliqTrix 2025 Product Development Contest.
-
----
-
-## 🌐 Connect With Me
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sanjayraman063@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayraman)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B1E3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayR0302)
+### Software Developer | AI & Full Stack Development
 
-**Languages:** English | Tamil | Hindi
+I build AI-powered web and mobile applications, multilingual LLM chatbots with RAG-based retrieval, full-stack platforms and Flutter applications.
 
-### "Keep Building. Keep Innovating."
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ What I Do
+
+- AI-powered application development
+- Full-stack web development
+- Flutter mobile development
+- REST API & WebSocket integration
+- Software testing and debugging
+- Technical content creation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ My Focus
+
+- Generative AI & LLMs
+- Retrieval-Augmented Generation
+- Modern frontend development
+- Backend integrations
+- Mobile application development
+- Programming education
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+<h2 align="center">✦ TECHNOLOGY UNIVERSE ✦</h2>
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&theme=light" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=light" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sqlite&theme=light" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python&theme=light" />
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-8B1E3F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+### Testing & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=playwright,git,github,postman,androidstudio&theme=light" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">01 / RHINO AI CHATBOT</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/GENERATIVE_AI-8B1E3F?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-6A3150?style=flat-square"/>
+</div>
+
+An intelligent multilingual conversational commerce and CRM solution.
+
+**Core Features**
+- English, Tamil and Tanglish support
+- RAG-based product retrieval
+- Gemini Live Voice Mode
+- Smart product search
+- CRM and admin dashboard
+
+**Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, Gemini, OpenAI, WebSockets.
+
+<div align="center">
+
+<a href="https://rhino-industries-chatbot.onrender.com/">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B1E3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">02 / RHINO LISTING</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/WEB_PLATFORM-8B1E3F?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUSINESS_DIRECTORY-6A3150?style=flat-square"/>
+</div>
+
+A business directory platform for discovering businesses and viewing detailed profiles.
+
+**Core Features**
+- Business discovery
+- Detailed business profiles
+- User authentication
+- OTP-based password recovery
+- Admin listing management
+- Approval, rejection and deletion controls
+
+<div align="center">
+
+<a href="https://www.rhinolisting.com/">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B1E3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">03 / E-COMMERCE MOBILE APPLICATION</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROVIDER-8B1E3F?style=flat-square"/>
+</div>
+
+A Flutter-based e-commerce application featuring user authentication, product catalog, shopping cart, Firebase integration, REST APIs and Provider state management.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+
+<h2 align="center">✦ PROFESSIONAL EXPERIENCE ✦</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Rhino Group
+
+**Web Developer · 3 Months**
+
+- Developed and integrated an AI chatbot.
+- Built responsive web interfaces.
+- Integrated APIs with backend services.
+- Tested and debugged chatbot features.
+
+</td>
+<td width="50%" valign="top">
+
+### Nithra Private Limited
+
+**App Development · 1 Month**
+
+- Developed Flutter application features.
+- Integrated REST APIs.
+- Identified and fixed application bugs.
+- Improved application stability.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTENT CREATOR ═══════════════ -->
+
+<h2 align="center">✦ CONTENT & CREATIVE WORK ✦</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SANJAYSPEAKS-TECH_INFLUENCER-8B1E3F?style=for-the-badge"/>
+
+### Programming Educator
+
+Creating educational content on programming, AI tools and emerging technologies through practical demonstrations.
+
+Explaining complex technical concepts in an accessible way.
+
+</div>
+
+---
+
+<!-- ═══════════════ EDUCATION ═══════════════ -->
+
+<h2 align="center">✦ EDUCATION & ACHIEVEMENTS ✦</h2>
+
+<div align="center">
+
+| Qualification | Institution | Details |
+|:---|:---|:---|
+| B.Tech Information Technology | Mahendra Engineering College | CGPA: 8.4/10 |
+| Higher Secondary Education | Senguthar Matric Higher Secondary School | 73% |
+
+**Certification:** Python — 6-Month Intensive Program
+
+**Achievement:** Participated in Zoho CliqTrix 2025 Product Development Contest.
+
+**Languages:** English · Tamil · Hindi
+
+</div>
+
+---
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayR0302&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B1E3F&icon_color=C05A76&text_color=444444&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR0302&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B1E3F&text_color=444444"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SanjayR0302&hide_border=true&background=FFFFFF&ring=8B1E3F&fire=C05A76&currStreakLabel=8B1E3F&sideLabels=444444&dates=777777"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B1028,50:8B1E3F,100:C05A76&height=150&section=footer"/>
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+<a href="mailto:Sanjayraman063@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ME-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sanjayraman">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SanjayR0302">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-8B1E3F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**CODE · CREATE · INNOVATE**
+
+<sub>© Sanjay R | Software Developer | AI & Full Stack Development</sub>
 
 </div>
