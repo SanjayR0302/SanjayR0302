@@ -1,67 +1,58 @@
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:090B20,45:352078,100:00C6FF&text=SANJAY%20R&fontSize=75&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20FULL%20STACK&descSize=17&descAlignY=60&descColor=BAE8FF"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:4B1028,50:8B1E3F,100:C05A76&text=SANJAY%20R&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=F5DDE5&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C05A76&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+Full+Stack+Development;Building+Intelligent+Digital+Experiences;Flutter+%7C+React+%7C+Python+%7C+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;AI+%26+Full+Stack+Developer;Flutter+%7C+React+%7C+Python;Turning+Ideas+Into+Digital+Experiences" />
 
 <br/>
 
 <a href="https://github.com/SanjayR0302">
-<img src="https://img.shields.io/badge/GitHub-SanjayR0302-8B1E3F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-171A35?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/sanjayraman">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-087EA4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:Sanjayraman063@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SanjayR0302&label=PROFILE+VIEWS&color=8B1E3F&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=SanjayR0302&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-
-<h2 align="center">✦ ABOUT ME ✦</h2>
-
-<div align="center">
-
-### Software Developer | AI & Full Stack Development
-
-I build AI-powered web and mobile applications, multilingual LLM chatbots with RAG-based retrieval, full-stack platforms and Flutter applications.
-
-</div>
+<h2 align="center">✦ 01 / ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="middle">
 
-### ◈ What I Do
+### Hey, I'm Sanjay R 👋
 
-- AI-powered application development
-- Full-stack web development
-- Flutter mobile development
-- REST API & WebSocket integration
-- Software testing and debugging
-- Technical content creation
+**Software Developer | AI & Full Stack Development**
+
+I build AI-powered web and mobile applications, multilingual LLM chatbots with RAG-based retrieval, and full-stack platforms.
+
+I work across Python, JavaScript, TypeScript and Dart, integrating AI models, REST APIs and databases to create useful digital experiences.
+
+- 🤖 AI-powered application development
+- 💻 Full-stack web development
+- 📱 Flutter mobile application development
+- 🔗 REST APIs and WebSockets
+- 🧪 Application testing and debugging
+- 🎬 Technical content creation
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" align="center" valign="middle">
 
-### ◈ My Focus
+<img src="https://skillicons.dev/icons?i=python,react,ts,nodejs,flutter,firebase&perline=2&theme=dark"/>
 
-- Generative AI & LLMs
-- Retrieval-Augmented Generation
-- Modern frontend development
-- Backend integrations
-- Mobile application development
-- Programming education
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech_IT-8.4_CGPA-6D5DFB?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -69,77 +60,75 @@ I build AI-powered web and mobile applications, multilingual LLM chatbots with R
 
 ---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-
-<h2 align="center">✦ TECHNOLOGY UNIVERSE ✦</h2>
+<h2 align="center">✦ 02 / TECH STACK</h2>
 
 <div align="center">
 
-### Programming Languages
+### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css&theme=dark"/>
 
-### Frontend & Mobile
+### FRONTEND & MOBILE
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=dark"/>
 
-### Backend & Databases
+### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sqlite&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sqlite&theme=dark"/>
 
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python&theme=light" />
+### AI & MACHINE LEARNING
 
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8B1E3F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6D5DFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### Testing & Developer Tools
+### TESTING & TOOLS
 
-<img src="https://skillicons.dev/icons?i=playwright,git,github,postman,androidstudio&theme=light" />
-
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
-
-<div align="center">
+<h2 align="center">✦ 03 / FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">01 / RHINO AI CHATBOT</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/GENERATIVE_AI-8B1E3F?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-6A3150?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/01-GENERATIVE_AI-6D5DFB?style=for-the-badge"/>
+
+### RHINO INDUSTRIES — AI CHATBOT
+
 </div>
 
-An intelligent multilingual conversational commerce and CRM solution.
+Multilingual conversational commerce chatbot with unified CRM capabilities.
 
-**Core Features**
-- English, Tamil and Tanglish support
-- RAG-based product retrieval
-- Gemini Live Voice Mode
-- Smart product search
-- CRM and admin dashboard
+**Features**
+- English, Tamil and Tanglish support.
+- RAG-based product retrieval.
+- Gemini Live Voice Mode.
+- Product catalog and smart search.
+- CRM and admin dashboard.
 
-**Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, Gemini, OpenAI, WebSockets.
+**Technologies**
+
+React 18 · TypeScript · Tailwind CSS · Node.js · Express.js · Gemini · OpenAI · RAG · WebSockets
 
 <div align="center">
 
 <a href="https://rhino-industries-chatbot.onrender.com/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B1E3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -147,66 +136,61 @@ An intelligent multilingual conversational commerce and CRM solution.
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">02 / RHINO LISTING</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/WEB_PLATFORM-8B1E3F?style=flat-square"/>
-<img src="https://img.shields.io/badge/BUSINESS_DIRECTORY-6A3150?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/02-WEB_PLATFORM-00A6C8?style=for-the-badge"/>
+
+### RHINO LISTING
+
 </div>
 
-A business directory platform for discovering businesses and viewing detailed profiles.
+Business directory platform for discovering businesses and viewing detailed business profiles.
 
-**Core Features**
-- Business discovery
-- Detailed business profiles
-- User authentication
-- OTP-based password recovery
-- Admin listing management
-- Approval, rejection and deletion controls
+**Features**
+- Business discovery and profiles.
+- User authentication.
+- OTP-based password recovery.
+- Admin listing management.
+- Business approval and rejection controls.
 
 <div align="center">
 
 <a href="https://www.rhinolisting.com/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B1E3F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-00A6C8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" valign="top">
 
-<h3 align="center">03 / E-COMMERCE MOBILE APPLICATION</h3>
-
 <div align="center">
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROVIDER-8B1E3F?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/03-MOBILE_APPLICATION-7C3AED?style=for-the-badge"/>
+
+### E-COMMERCE MOBILE APPLICATION
+
 </div>
 
-A Flutter-based e-commerce application featuring user authentication, product catalog, shopping cart, Firebase integration, REST APIs and Provider state management.
+Flutter-based e-commerce application with user authentication, product catalog, shopping cart and Firebase integration.
+
+**Technologies:** Flutter · Dart · Firebase Authentication · REST APIs · Provider
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
-
-<h2 align="center">✦ PROFESSIONAL EXPERIENCE ✦</h2>
-
-<div align="center">
+<h2 align="center">✦ 04 / PROFESSIONAL EXPERIENCE</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Rhino Group
+### RHINO GROUP
 
 **Web Developer · 3 Months**
 
@@ -218,50 +202,44 @@ A Flutter-based e-commerce application featuring user authentication, product ca
 </td>
 <td width="50%" valign="top">
 
-### Nithra Private Limited
+### NITHRA PRIVATE LIMITED
 
 **App Development · 1 Month**
 
 - Developed Flutter application features.
 - Integrated REST APIs.
-- Identified and fixed application bugs.
+- Identified and fixed bugs.
 - Improved application stability.
 
 </td>
 </tr>
 </table>
 
+---
+
+<h2 align="center">✦ 05 / GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayR0302&show_icons=true&hide_border=true&bg_color=0D1024&title_color=9D8CFF&icon_color=00C6FF&text_color=E2E8F0&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR0302&layout=compact&hide_border=true&bg_color=0D1024&title_color=9D8CFF&text_color=E2E8F0"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SanjayR0302&hide_border=true&background=0D1024&ring=9D8CFF&fire=00C6FF&currStreakLabel=9D8CFF&sideLabels=E2E8F0&dates=94A3B8"/>
+
 </div>
 
 ---
 
-<!-- ═══════════════ CONTENT CREATOR ═══════════════ -->
-
-<h2 align="center">✦ CONTENT & CREATIVE WORK ✦</h2>
+<h2 align="center">✦ 06 / EDUCATION & ACHIEVEMENTS</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SANJAYSPEAKS-TECH_INFLUENCER-8B1E3F?style=for-the-badge"/>
-
-### Programming Educator
-
-Creating educational content on programming, AI tools and emerging technologies through practical demonstrations.
-
-Explaining complex technical concepts in an accessible way.
-
-</div>
-
----
-
-<!-- ═══════════════ EDUCATION ═══════════════ -->
-
-<h2 align="center">✦ EDUCATION & ACHIEVEMENTS ✦</h2>
-
-<div align="center">
-
-| Qualification | Institution | Details |
+| Qualification | Institution | Result |
 |:---|:---|:---|
-| B.Tech Information Technology | Mahendra Engineering College | CGPA: 8.4/10 |
+| B.Tech Information Technology | Mahendra Engineering College | CGPA 8.4/10 |
 | Higher Secondary Education | Senguthar Matric Higher Secondary School | 73% |
 
 **Certification:** Python — 6-Month Intensive Program
@@ -274,48 +252,38 @@ Explaining complex technical concepts in an accessible way.
 
 ---
 
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
-<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+<h2 align="center">✦ 07 / BEYOND DEVELOPMENT</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjayR0302&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B1E3F&icon_color=C05A76&text_color=444444&rank_icon=github"/>
+<img src="https://img.shields.io/badge/SANJAYSPEAKS-TECH_INFLUENCER-6D5DFB?style=for-the-badge"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR0302&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B1E3F&text_color=444444"/>
+### Programming Educator
 
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=SanjayR0302&hide_border=true&background=FFFFFF&ring=8B1E3F&fire=C05A76&currStreakLabel=8B1E3F&sideLabels=444444&dates=777777"/>
+Creating educational content on programming, AI tools and emerging technologies through practical project demonstrations.
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONTACT ═══════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B1028,50:8B1E3F,100:C05A76&height=150&section=footer"/>
-
-### LET'S BUILD SOMETHING MEANINGFUL.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:090B20,50:352078,100:00C6FF&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=25&fontColor=FFFFFF&fontAlignY=65"/>
 
 <a href="mailto:Sanjayraman063@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ME-8B1E3F?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/sanjayraman">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/SanjayR0302">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-8B1E3F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-171A35?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 **CODE · CREATE · INNOVATE**
 
-<sub>© Sanjay R | Software Developer | AI & Full Stack Development</sub>
+<sub>Designed & developed by Sanjay R</sub>
 
 </div>
